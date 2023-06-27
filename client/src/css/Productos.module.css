@@ -1,0 +1,42 @@
+.Productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 90%;
+}
+.Producto{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 10%;
+    margin-bottom: 1em;
+}
+.Botones {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+    padding: 1%;
+    margin-bottom: 10%;
+}
+
+.BotonNavegacion {
+    width: 30%;
+    height: 20%;
+    color: white;
+    background: #1c1934;
+    border-radius: 16px;
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: center;
+    margin-top: 1.5em;
+    font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 30px;
+	color: #d8dbfb;
+}
