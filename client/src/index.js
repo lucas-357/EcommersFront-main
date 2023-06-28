@@ -9,7 +9,7 @@ import axios from 'axios';
 import { AuthProvider } from './components/AuthContext';
 
 
-axios.defaults.baseURL = 'https://ecommersback-production.up.railway.app';
+axios.defaults.baseURL = 'https://ecommersback-main-production.up.railway.app/';
 
 const rootElement = document.getElementById('root');
 

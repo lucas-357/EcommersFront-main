@@ -39,7 +39,7 @@ export const GET_All_USERS = 'GET_All_USERS';
 export const SET_CART1 = 'SET_CART1';
 
 
-const URL = 'https://ecommersback-production.up.railway.app'
+const URL = 'https://ecommersback-main-production.up.railway.app/'
 
 export const setProducts = (products) => {
   return {
